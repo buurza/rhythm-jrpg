@@ -14,4 +14,4 @@
 	writing in her diary
 - scared of
 	bugs/insects
-	darkness, shadows
+	darkness, shadows 
